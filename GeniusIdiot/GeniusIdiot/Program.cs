@@ -34,5 +34,6 @@ public class MainClass
             case 5: Console.WriteLine("Гений!"); break;
 
         }
+        Console.WriteLine();
     }
 }
